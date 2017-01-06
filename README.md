@@ -1,0 +1,2 @@
+# DotNetVersioningTool
+.NET Versioning Tool
